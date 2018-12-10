@@ -1,2 +1,2 @@
 # curso-java-basico
-Estou aprendo java básico.
+Estou aprendendo java básico.
